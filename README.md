@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm Susan Ogidan
+###I'm Susan Ogidan
 
 - 🔭 I’m currently working on improving my technical skills
 - 🌱 I’m currently learning software development
