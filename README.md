@@ -3,7 +3,7 @@
 I'm Susan Ogidan
 
 - 🔭 I’m currently working on improving my technical skills
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently learning Nodejs, React, TypeScript and MongoDB
 - 👯 I’m looking to collaborate on entry-level projects
 - 🤔 I’m looking for help with finding roles or projects to work on
 - 💬 Ask me about my hobbies
